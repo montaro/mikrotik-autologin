@@ -1,0 +1,21 @@
+Copyright (c) 2011
+
+== MikroTik Autlogin
+
+A simple tool to automatically login to MikroTik proxy using http protocol
+
+== License
+ 
+The mikrotik-autologin uses the Apache 2 license.  See LICENSE for details.
+
+== Usage Notes
+
+$python mtlogin.py username password
+
+== Dependencies
+Dependencies
+
+re
+md5
+httplib2
+urllib
