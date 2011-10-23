@@ -73,7 +73,7 @@ def main():
     hex_hash_password = hashed_password.hexdigest()
     print 'hashed password: %s' % hex_hash_password
     login(username, hex_hash_password)
-    print 'Succecfully logged in ;)'
+    print 'Successfully logged in ;)'
     
 if __name__ == '__main__':
     main()
