@@ -13,7 +13,6 @@ The mikrotik-autologin uses the Apache 2 license.  See LICENSE for details.
 $python mtlogin.py username password
 
 == Dependencies
-Dependencies
 
 re
 md5
